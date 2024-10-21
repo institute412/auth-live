@@ -23,7 +23,10 @@ document.addEventListener("DOMContentLoaded", function() {
             "@moore.sc.edu",
             "@sc.edu",
             "@email.sc.edu",
-            "@uscmed.sc.edu"
+            "@uscmed.sc.edu",
+            "@csc.sc.edu",
+            "@fmc.sc.edu",
+            "@law.sc.edu"
         ];
     
         // Check if the email ends with any of the allowed domains
